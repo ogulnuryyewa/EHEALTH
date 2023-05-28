@@ -21,7 +21,10 @@ class _EsasyState extends State<Esasy> {
           // snap: true,
           title: Text(
             "Saglygyň Nobaty",
-            style: TextStyle(fontSize: 35),
+            style: TextStyle(
+              fontSize: 35,
+              fontWeight: FontWeight.w200,
+            ),
           ),
           leading: SvgPicture.asset("assets/healthcare.png"),
 
@@ -44,7 +47,7 @@ class _EsasyState extends State<Esasy> {
                       ],
                     ),
                     Positioned(
-                        right: 0,
+                        right: 200,
                         left: 0,
                         child: Container(
                           height: double.infinity,
@@ -57,7 +60,8 @@ class _EsasyState extends State<Esasy> {
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontWeight: FontWeight.w400,
-                                    fontSize: 40.61),
+                                    fontSize: 40.61,
+                                    fontFamily: "Poppins"),
                               ),
                               Text(
                                 "Sen wagtyňy tygşytlap, saglygyňy bejertmek isleseň bu platforma saňa kömek eder.",

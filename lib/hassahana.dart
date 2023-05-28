@@ -139,7 +139,7 @@ class _HassahanaState extends State<Hassahana> {
                               style: TextStyle(
                                   fontFamily: "Poppins",
                                   color: Colors.black,
-                                  fontSize: 10),
+                                  fontSize: 8),
                             ),
                           ),
                           Row(
