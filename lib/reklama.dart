@@ -68,7 +68,7 @@ class _EsassahState extends State<Esassah> {
                                       padding: const EdgeInsets.only(right: 8),
                                       child: Container(
                                         height: 10,
-                                        width: 10,
+                                        width: 9.9,
                                         decoration: BoxDecoration(
                                             color: surat.indexOf(e) == a
                                                 ? Color.fromRGBO(10, 84, 41, 1)

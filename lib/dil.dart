@@ -80,7 +80,7 @@ class _DilState extends State<Dil> {
                               ));
                         },
                         child: Text(
-                          "English",
+                          "Englishh",
                           style: TextStyle(
                               fontFamily: 'Hind Guntur',
                               color: Colors.black,

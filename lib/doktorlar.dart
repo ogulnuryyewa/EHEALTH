@@ -1,3 +1,4 @@
+import 'package:bookinghealth/ugurlar.dart';
 import 'package:flutter/material.dart';
 
 class Doktorlar extends StatefulWidget {
@@ -10,6 +11,8 @@ class Doktorlar extends StatefulWidget {
 class _DoktorlarState extends State<Doktorlar> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      appBar: Ugurlar().myappbar(context),
+    );
   }
 }

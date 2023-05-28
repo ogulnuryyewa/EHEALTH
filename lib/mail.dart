@@ -1,6 +1,5 @@
-import 'package:bookinghealth/bottom.dart';
 import 'package:bookinghealth/bottomnav.dart';
-import 'package:bookinghealth/reklama.dart';
+
 import 'package:flutter/material.dart';
 
 class Mail extends StatefulWidget {

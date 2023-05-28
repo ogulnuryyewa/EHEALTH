@@ -41,7 +41,7 @@ class _ProfilState extends State<Profil> {
                   Icon(
                     Icons.email,
                   ),
-                  Text("E-mail")
+                  Text("Email")
                 ],
               ),
             ),

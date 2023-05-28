@@ -1,4 +1,3 @@
-import 'package:bookinghealth/ugurlar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -47,7 +46,6 @@ class _EsasyState extends State<Esasy> {
                       ],
                     ),
                     Positioned(
-                      
                         right: 200,
                         left: 0,
                         child: Container(

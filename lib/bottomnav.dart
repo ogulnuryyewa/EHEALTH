@@ -11,7 +11,7 @@ class Bottomnav extends StatefulWidget {
 
 class _BottomnavState extends State<Bottomnav> {
   List ikon = [Icon(Icons.home_outlined), Icon(Icons.language_outlined)];
-  List lab = ["Home", "Language"];
+  List lab = ["Home", "Languages"];
   List page = [];
   Color mavi = Color.fromRGBO(6, 44, 255, 1);
   @override

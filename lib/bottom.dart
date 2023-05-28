@@ -20,7 +20,7 @@ class _BottomState extends State<Bottom> {
     Icons.person
   ];
   Color mavi = Color.fromRGBO(6, 44, 255, 1);
-  List labe = ["Esasy sahypa", "Hassahanalar", "Online Nobat", "Profil"];
+  List labe = ["Esasy sahypa", "Hassahanalarr", "Online Nobat", "Profil"];
   int _selectedIndex = 1;
   List<Widget> pages = [];
   @override

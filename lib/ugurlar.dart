@@ -1,8 +1,5 @@
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:http/http.dart' as http;
 
 class Ugurlar extends StatelessWidget {
   Color acyk = Color.fromRGBO(242, 244, 255, 1);
